@@ -26,3 +26,4 @@ class B:
 
     def MB3(self):
         print("MB3")
+
