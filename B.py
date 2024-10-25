@@ -23,3 +23,6 @@ class B:
 
     def MB2(self):
         print("MB2")
+
+    def MB3(self):
+        print("MB3")

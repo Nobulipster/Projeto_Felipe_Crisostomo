@@ -23,3 +23,6 @@ class C:
 
     def MC2(self):
         print("MC2")
+
+    def MC3(self):
+        print("MC3")
