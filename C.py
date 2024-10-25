@@ -26,3 +26,4 @@ class C:
 
     def MC3(self):
         print("MC3")
+
