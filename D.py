@@ -25,4 +25,4 @@ class D:
         print("MD2")
 
     def MD4(self):
-        print("MD4")
+        print("MD4") 
