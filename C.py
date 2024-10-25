@@ -23,3 +23,4 @@ class C:
 
     def MC2(self):
         print("MC2")
+
