@@ -29,3 +29,6 @@ class A:
 
     def getSoma(self, a: int, b: int) -> int:
         return a + b
+    
+    def getMult(self, a: int, b: int) -> int:
+        return a * b
